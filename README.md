@@ -1,5 +1,6 @@
 # CodeCraft2018
 The code of 2018 HUAWEI CodeCraft game
+
 本程序为2018年华为软件精英挑战赛初赛代码
 由于比赛期间代码改动较多，因此赛后进行修改重构，仅保留实际使用的算法主题部分
 程序主要包括三个类：DataProcessing类、MyPredict类以及Packing类
